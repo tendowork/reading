@@ -1,2 +1,1 @@
-# reading
-Reading in the topics: future of work, low-skill work, waste management, volunteering, conservation
+- Guide to formatting with GitHub: https://help.github.com/articles/basic-writing-and-formatting-syntax/
